@@ -7,4 +7,5 @@ func main() {
 	println("tere")
 	println("tere2")
 
+	println("Headaega")
 }
